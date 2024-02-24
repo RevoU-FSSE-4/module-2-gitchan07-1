@@ -1,1 +1,9 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/-vSzXkEt)
+## Our Cup Cake's Club
+
+#### Hello everyone, welcome to Cup Cake's Club. You can make any cupcake you want. Please take a look at our members' reviews and the results of the cupcakes we've made. Moreover, you can also see how to make one of our cupcakes in our class.
+
+<img src=images/cupcake-header.jpg/>
+
+### So, what are you waiting for? Join our membership now and get the opportunity to learn more about cupcakes :)
+
+### [Her Cupcake Class](https://module-2-gitchan07.vercel.app/)
