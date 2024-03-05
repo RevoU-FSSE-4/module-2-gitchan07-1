@@ -1,3 +1,9 @@
+## Checkout my website with deploy [HERE](https://www.cutiepai.site/)
+
+## Checkout my original website from vercel [HERE](https://module-2-gitchan07.vercel.app/)
+
+## How to Deploy GitHub to Vercel [HERE](STEP.md)
+
 ## Our Cup Cake's Club
 
 #### Hello everyone, welcome to Cup Cake's Club. You can make any cupcake you want. Please take a look at our members' reviews and the results of the cupcakes we've made. Moreover, you can also see how to make one of our cupcakes in our class.
